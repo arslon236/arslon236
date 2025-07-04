@@ -33,9 +33,9 @@
 
 ## 📫 Murojaat uchun
 
-- Email: `arslonmaxmudov236@gmail.com`
-- Telegram: [@arslon](https://t.me/arslon_official)
-- GitHub: [arslonmaxmudov](https://github.com/arslon236)
+- 📧 Email: [arslonmaxmudov236@gmail.com](mailto:arslonmaxmudov236@gmail.com)
+- 💬 Telegram: [@arslon_official](https://t.me/arslon_official)
+- 💻 GitHub: [arslon236](https://github.com/arslon236)
 
 ---
 
