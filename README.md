@@ -33,7 +33,7 @@
 
 ## 📫 Murojaat uchun
 
-- Email: `arslon@example.com`
+- Email: `arslonmaxmudov236@gmail.com`
 - Telegram: [@arslon](https://t.me/arslon_official)
 - GitHub: [arslonmaxmudov](https://github.com/arslon236)
 
