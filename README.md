@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">👋 Salom! Men Arslon Maxmudov</h1>
+<h3 align="center">💻 Backend dasturchilik yo‘nalishida o‘sib borayotgan dasturchi</h3>
 
-<!--
-**arslon236/arslon236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 Men haqimda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Yaqinda dasturlash kursini tugatdim, ayni damda backend bo‘yicha amaliyot qilmoqdaman.
+- ⚡ Node.js, NestJS, PostgreSQL va boshqa texnologiyalarni o‘rganib, kichik loyihalar ustida ishlayapman.
+- 📈 Har kuni yangi narsalarni o‘rganishga va o‘zimni sinab ko‘rishga harakat qilaman.
+- 🤝 Jamoada ishlashga, real loyihalarda ishtirok etishga tayyorman.
+
+---
+
+## 🚀 Texnologiyalar
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="NestJS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" title="Prisma" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>&nbsp;
+</p>
+
+---
+
+## 📫 Murojaat uchun
+
+- Email: `arslon@example.com`
+- Telegram: [@arslon](https://t.me/arslon_official)
+- GitHub: [arslonmaxmudov](https://github.com/arslon236)
+
+---
+
+## 📝 Eslatma
+
+> Ushbu profil — mening o‘sish yo‘limdagi ilk qadamlardan biri. Taklif va maslahatlar uchun doim ochiqman!
+
